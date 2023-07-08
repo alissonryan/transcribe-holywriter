@@ -10,7 +10,11 @@ A primeira coisa que precisamos fazer é criar um novo notebook do Google Colab.
 
 Antes de começar a escrever qualquer comando, também precisamos ter certeza de que estamos usando a configuração da GPU como nosso tempo de execução (em vez de uma CPU padrão). Isso ocorre porque as GPUs são muito mais adequadas para lidar com tarefas de IA.
 
-Clique em **Runtime** no menu superior do Colab e selecione **Change runtime type**. Na opção **Hardware accelerator**, selecione GPU e clique em **Save**.
+Clique em **Runtime** no menu superior do Colab e selecione **Change runtime type**. 
+![](https://miro.medium.com/v2/resize:fit:1400/1*v-Bgbe67Q1bLl-l0nt7PXQ.png)
+
+Na opção **Hardware accelerator**, selecione GPU e clique em **Save**.
+![](https://miro.medium.com/v2/resize:fit:1400/1*m3PKdpdHSKpcPeQ-DNaDkg.png)
 
 ### Etapa 2: Instalar as bibliotecas necessárias
 
