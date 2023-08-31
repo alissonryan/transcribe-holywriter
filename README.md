@@ -29,7 +29,7 @@ Nós precisamos das bibliotecas `whisper` e `youtube_dl`. Para instalar, use os 
 
 ### Etapa 3: Executar o script Python
 
-Agora você pode copiar o script Python deste repositório e colá-lo em uma nova célula do Colab. Execute a célula.
+Agora você pode copiar o [script Python](https://github.com/alissonryan/transcribe-holywriter/blob/main/transcriber-holywriter.py) deste repositório e colá-lo em uma nova célula do Colab. Execute a célula.
 
 ### Etapa 4: Inserir o link do YouTube
 
